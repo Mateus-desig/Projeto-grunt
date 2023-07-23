@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  align-self: start;
+  text-decoration: none;
+}/*# sourceMappingURL=header.css.map */
+section {
+  background-color: red;
+  text-align: center;
+  font-weight: bolder;
+}/*# sourceMappingURL=section.css.map */
+footer {
+  background-color: red;
+  color: darkblue;
+}/*# sourceMappingURL=footer.css.map */
